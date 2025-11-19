@@ -1,3 +1,4 @@
+array.sh
 A[0]="Java"
 A[1]="C"
 A[2]="C++"
@@ -10,4 +11,4 @@ B[2]=3
 B[3]=4
 echo ${B[0]}
 echo ${B[1]}
-echo "change_1_2"
+echo "change_1_3"
