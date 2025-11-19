@@ -11,4 +11,4 @@ B[2]=3
 B[3]=4
 echo ${B[0]}
 echo ${B[1]}
-echo "change_1_2"
+echo "change_1_3"
